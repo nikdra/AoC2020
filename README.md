@@ -14,3 +14,5 @@ You can run the solution for day 1 with the following code:
 cd day1
 python puzzle.py
 ```
+
+Note that we assume all inputs are valid i.e., no exception handling is necessary.
